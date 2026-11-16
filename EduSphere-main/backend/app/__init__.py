@@ -1,0 +1,1 @@
+"""EduSphere backend application."""

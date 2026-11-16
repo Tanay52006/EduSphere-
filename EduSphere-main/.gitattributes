@@ -1,0 +1,2 @@
+# PDF byte offsets and stream lengths must survive Windows checkouts unchanged.
+*.pdf binary

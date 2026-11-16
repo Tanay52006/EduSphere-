@@ -1,0 +1,27 @@
+# Third-party references and copyrighted research: local only
+References/
+References/ragforge
+docs/research/papers/
+
+# Secrets and local state
+.env
+.env.*
+!.env.example
+storage/
+*.db
+*.sqlite3
+
+# Tooling
+node_modules/
+frontend/.npm-cache/
+__pycache__/
+.venv/
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+*.egg-info/
+dist/
+coverage/
+.DS_Store
+.worktrees/
+.impeccable/
